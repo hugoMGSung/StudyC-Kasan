@@ -1,5 +1,6 @@
 # Study C Basic
 C학습 리포지토리
+![CLogo](https://raw.githubusercontent.com/hugoMGSung/StudyC-Kasan/main/images/C_logo.png)
 
 <br/>
 
