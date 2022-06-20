@@ -13,7 +13,7 @@ int main(void) {
 
 	while (str[i] != '\0') {
 		fputc(str[i], fp);
-		i++;
+		i++; 
 	}
 	fputc('\n', fp);
 	fclose(fp);
