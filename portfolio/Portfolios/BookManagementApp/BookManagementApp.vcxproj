@@ -19,7 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mssql_main.c" />
+    <Library Include="libmysql.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="libmysql.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mssql_main3.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
